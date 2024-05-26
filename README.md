@@ -30,7 +30,7 @@ Extracted data often contained unwanted characters due to the JSON-like structur
 
 ### Efficiency
 Iterating over multiple pages and fetching content from each link required optimizations to ensure the process was both fast and reliable. The extraction of the mission headlines took 7minutes to run.
-SpaceX limited the number of mission data extracted to only 136 missions out of over 300 mission launches on the website.
+SpaceX limited the number of mission data extracted to only 136 missions(August 29, 2019 - November 26, 2022) out of over 300 mission launches(August 29, 2019 - present) on the website.
 
 ## Skills Demonstrated
 This project demonstrates proficiency in web scraping, data extraction, and cleaning using Python, showcasing skills that are valuable for data-driven roles. The organized workflow and comprehensive comments make the code easy to understand and maintain.
